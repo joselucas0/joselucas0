@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é José Lucas!
+## 💜 Olá, meu nome é José Lucas Rocha!
 
- 💬 Bacharel do curso de Engenharia de Software na UFMS, atualmente no sexto período, atuando atualmente como Desenvolvedor Full Stack na @digix. Durante a graduação, desenvolvi habilidades em várias linguagens de programação, incluindo Python, C++ e Java, além de conhecimento em outras áreas da engenharia de software como arquitetura de software até melhorias de processos de software com o uso de metodologis
+ 💬 Bacharel do curso de Engenharia de Software na UFMS, atualmente no sexto período, atuando atualmente como Desenvolvedor Full Stack na Digix. Durante a graduação, desenvolvi habilidades em várias linguagens de programação, incluindo Python, C++ e Java, além de conhecimento em outras áreas da engenharia de software como arquitetura de software até melhorias de processos de software com o uso de metodologis
  ágeis como Scrum.
 
 🔭 Após cursar uma disciplina focada em testes de software, me tornei um entusiasta da área de Quality Assurance (QA). Estou buscando constantemente me aprimorar e adquirir mais experiência prática em testes e automação, com o objetivo de contribuir efetivamente para a qualidade de software em ambientes profissionais. 
@@ -17,7 +17,7 @@ Aqui está a mensagem atualizada com os links para seu perfil do GitHub e Linked
 
 🔗 **Vamos Conectar!**
 
-Atualmente, estou atuando como desenvolvedor full stack em uma empresa, utilizando C#, .NET e React. Estou sempre aberto a discussões sobre desenvolvimento de software, testes e automação. Se você tem alguma dúvida, quer trocar ideias ou discutir sobre projetos, sinta-se à vontade para me enviar uma mensagem! Estou aqui para aprender e compartilhar experiências.
+Estou sempre aberto a discussões sobre desenvolvimento de software, testes e automação. Se você tem alguma dúvida, quer trocar ideias ou discutir sobre projetos, sinta-se à vontade para me enviar uma mensagem! Estou aqui para aprender e compartilhar experiências.
 
 - 💼 [GitHub](https://github.com/joselucas0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joselucasrocha/)
@@ -38,9 +38,9 @@ Atualmente, estou atuando como desenvolvedor full stack em uma empresa, utilizan
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cypress/cypress.png" alt="Cypress"/></code>
+<code><img height="32" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_64x64.png" alt="Cypress"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" alt="Spring Boot"/></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
