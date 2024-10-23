@@ -49,8 +49,10 @@ Estou sempre aberto a discussões sobre desenvolvimento de software, testes e au
 ---
 
 ## ⭐ GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=joselucas0&show_icons=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselucas0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joselucas0&show_icons=true)
 
-
-![](https://komarev.com/ghpvc/?username=joselucas0&color=006bed)
+ ![](https://komarev.com/ghpvc/?username=joselucas0&color=006bed)
