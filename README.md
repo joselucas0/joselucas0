@@ -1,23 +1,17 @@
 ## 💜 Olá, meu nome é José Lucas Rocha!
 
- 💬 Bacharel do curso de Engenharia de Software na UFMS, atualmente no sexto período, atuando atualmente como Desenvolvedor Full Stack na Digix. Durante a graduação, desenvolvi habilidades em várias linguagens de programação, incluindo Python, C++ e Java, além de conhecimento em outras áreas da engenharia de software como arquitetura de software até melhorias de processos de software com o uso de metodologis
- ágeis como Scrum.
+ 💻 Desenvolvedor Full Stack | C# .NET | Devops
 
-🔭 Após cursar uma disciplina focada em testes de software, me tornei um entusiasta da área de Quality Assurance (QA). Estou buscando constantemente me aprimorar e adquirir mais experiência prática em testes e automação, com o objetivo de contribuir efetivamente para a qualidade de software em ambientes profissionais. 
+Atualmente, sou desenvolvedor full stack especializado em C# e .NET, sempre buscando aprimorar minhas habilidades e aplicar as melhores práticas de desenvolvimento. Tenho um conhecimento sólido em engenharia de software, adquirido ao longo da minha formação na UFMS, onde faço parte do Núcleo de Práticas de Engenharia de Software, desenvolvendo projetos reais e aplicando conceitos avançados da área.
 
- 🚀 Automação de Testes com Cypress para Formulário de Registro de Imagens
+Minha experiência abrange arquitetura de software, engenharia de requisitos e DevOps, com foco em CI/CD para automação de processos e entrega contínua. Também possuo conhecimento em Quality Assurance e automação de testes, garantindo a entrega de software confiável e escalável.
 
-Este repositório contém testes automatizados para um **Formulário de Registro de Imagens** usando **Cypress**. Os testes cobrem vários cenários para garantir que o formulário se comporte corretamente em diferentes condições.
+Estou sempre em busca de aprendizado e inovação, contribuindo para a entrega de soluções robustas e escaláveis. 🚀
 
-## 📥 Acesso ao Repositório
+📩 Vamos trocar ideias sobre desenvolvimento e boas práticas de engenharia de software?
 
 Você pode acessar o repositório clicando [aqui](https://github.com/joselucas0/Automa-o-de-Testes-com-Cypress-para-Formul-rio-de-Registro-de-Imagens.git).
 
-Aqui está a mensagem atualizada com os links para seu perfil do GitHub e LinkedIn:
-
-🔗 **Vamos Conectar!**
-
-Estou sempre aberto a discussões sobre desenvolvimento de software, testes e automação. Se você tem alguma dúvida, quer trocar ideias ou discutir sobre projetos, sinta-se à vontade para me enviar uma mensagem! Estou aqui para aprender e compartilhar experiências.
 
 - 💼 [GitHub](https://github.com/joselucas0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joselucasrocha/)
@@ -29,9 +23,6 @@ Estou sempre aberto a discussões sobre desenvolvimento de software, testes e au
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
