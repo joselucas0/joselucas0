@@ -35,7 +35,7 @@ Você pode acessar o repositório clicando [aqui](https://github.com/joselucas0/
 
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Digix" src="https://geradordeelementos.digix.com.br/logo?canvasId=canvasDestino&cor=aleatorio&corLetras=roxo&tempoDeTrocaDeCor=3&callbackDeTrocaDeCor="/>](https://digix.com.br/)
+[<img align="left" height="94px" width="94px" alt="Digix" src="https://digix.com.br/wp-content/uploads/2023/01/footer-logo.svg"/>](https://digix.com.br/)
 
 **Desenvolvedor Aprendiz de Sistemas** \
 [**Digix**](https://digix.com.br/) • Trainee \
