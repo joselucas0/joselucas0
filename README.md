@@ -2,8 +2,6 @@
 
  💻 Engenheiro de Software | C# | .NET | Devops
 
-Atualmente, sou desenvolvedor full stack especializado em C# e .NET, sempre buscando aprimorar minhas habilidades e aplicar as melhores práticas de desenvolvimento. Tenho um conhecimento sólido em engenharia de software, adquirido ao longo da minha formação na UFMS, onde faço parte do Núcleo de Práticas de Engenharia de Software, desenvolvendo projetos reais e aplicando conceitos avançados da área.
-
 Minha experiência abrange Arquitetura de Software, Engenharia de Requisitos e DevOps, com foco em CI/CD para automação de processos e entrega contínua. Sou um entusiasta da área de Quality Assurance (QA) e automação de testes, garantindo a entrega de soluções de software confiáveis, escaláveis e de alta qualidade. Além disso, sou adepto de práticas ágeis e metodologias que promovem a eficiência e a excelência técnica em todos os estágios do ciclo de vida do desenvolvimento de software.
 
 Estou sempre em busca de aprendizado e inovação, contribuindo para a entrega de soluções robustas e escaláveis. 🚀
