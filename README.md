@@ -38,5 +38,5 @@ Estou sempre em busca de aprendizado e inovação, contribuindo para a entrega d
 **Desenvolvedor Aprendiz de Sistemas** \
 [**Digix**](https://digix.com.br/) • Trainee \
 Linguagens & Tecnologias: `C#`, `SQL Server`, `.NET`, `ASP.NET`, `Windows Forms` \
-Projetos em destaque: [Farmacy Sistem](https://github.com/ValberOIiveira/Desafio-6), [Financial Organizer](https://github.com/joselucas0/FinancialOrganizer)
+Projetos em destaque: [Farmacy Sistem](https://github.com/ValberOIiveira/Desafio-6), [Toca da Onça](https://github.com/joselucas0/TocaDaOnca)
 <br/>
